@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>QuickBill Authorized Partner | Madhi Group — GST Billing, POS & Inventory Software</title>
+  <meta name="description"
+        content="Madhi Group is an official QuickBill partner. Get fast GST billing, retail POS, inventory and accounting software with local support across India. Request a free demo today.">
+  <meta name="robots" content="index, follow">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="QuickBill Authorized Partner | Madhi Group">
+  <meta property="og:description" content="Official QuickBill partner for GST billing, POS and inventory management solutions.">
+  <meta property="og:url" content="https://www.madhigroup.com/quickbill-partner">
+  <meta property="og:image" content="https://www.madhigroup.com/assets/quickbill-og.jpg">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="QuickBill Authorized Partner | Madhi Group">
+  <meta name="twitter:description" content="Fast GST billing, POS & inventory software backed by Madhi Group.">
+  <meta name="twitter:image" content="https://www.madhigroup.com/assets/quickbill-twitter.jpg">
+
+  <!-- JSON-LD Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Madhi Group",
+    "url": "https://www.madhigroup.com",
+    "logo": "https://www.madhigroup.com/assets/logo.svg",
+    "sameAs": [
+      "https://www.facebook.com/madhigroup",
+      "https://www.linkedin.com/company/madhigroup"
+    ],
+    "contactPoint": [{
+      "@type": "ContactPoint",
+      "telephone": "+91-9876543210",
+      "contactType": "customer support",
+      "areaServed": "IN",
+      "availableLanguage": ["English", "Hindi"]
+    }],
+    "department": {
+      "@type": "Organization",
+      "name": "QuickBill Solutions"
+    }
+  }
+  </script>
+
+  <style>
+    :root { --primary:#0061f2; --secondary:#f9f9f9; --dark:#333; --radius:8px; }
+    *{box-sizing:border-box;margin:0;padding:0;font-family:Arial,Helvetica,sans-serif;}
+    body{color:var(--dark);line-height:1.6;background:#fff;}
+    header,section,footer{padding:60px 20px;}
+    .container{max-width:1100px;margin:0 auto;}
+    h1{font-size:2.5rem;margin-bottom:20px;color:var(--primary);}
+    h2{font-size:1.75rem;margin:40px 0 20px;}
+    p{margin-bottom:15px;}
+    .btn{display:inline-block;background:var(--primary);color:#fff;padding:12px 30px;border-radius:var(--radius);text-decoration:none;}
+    .grid{display:grid;gap:30px;}
+    .features{grid-template-columns:repeat(auto-fit,minmax(220px,1fr));}
+    .card{background:var(--secondary);padding:30px;border-radius:var(--radius);text-align:center;}
+    .faq-item{margin-bottom:25px;}
+    .faq-item h3{font-size:1.1rem;margin-bottom:10px;}
+    .testimonials{display:flex;flex-wrap:wrap;gap:20px;}
+    .testimonial{flex:1 1 250px;border:1px solid #eee;padding:20px;border-radius:var(--radius);}
+    footer{background:var(--secondary);text-align:center;}
+  </style>
+</head>
+
+<body>
+  <!-- Hero -->
+  <header>
+    <div class="container">
+      <h1>Official QuickBill Partner<br>Get Faster GST Billing & POS</h1>
+      <p>Madhi Group delivers QuickBill’s powerful billing, inventory and accounting software with dedicated onboarding, training and 24×7 support.</p>
+      <a href="#contact" class="btn">Request Free Demo</a>
+    </div>
+  </header>
+
+  <!-- Features -->
+  <section>
+    <div class="container">
+      <h2>Why Choose QuickBill?</h2>
+      <div class="grid features">
+        <div class="card">
+          <h3>One-Click GST Invoices</h3>
+          <p>Create professional invoices compliant with the latest GST rules in seconds.</p>
+        </div>
+        <div class="card">
+          <h3>Real-Time Inventory</h3>
+          <p>Track stock across multiple locations and get automatic low-stock alerts.</p>
+        </div>
+        <div class="card">
+          <h3>Integrated Payments</h3>
+          <p>Accept UPI, cards and wallets with built-in gateways like Paytm and PhonePe.</p>
+        </div>
+        <div class="card">
+          <h3>Advanced Analytics</h3>
+          <p>Visual dashboards for sales, profit, tax liability and purchase trends.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Value Adds -->
+  <section style="background:#f0f7ff;">
+    <div class="container">
+      <h2>Exclusive Benefits with Madhi Group</h2>
+      <ul>
+        <li>Local installation and data migration assistance</li>
+        <li>Customized invoice branding with your logo and colors</li>
+        <li>Free staff training sessions, online or on-site</li>
+        <li>Priority ticket resolution within 2 hours</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- Testimonials -->
+  <section>
+    <div class="container">
+      <h2>Customer Success Stories</h2>
+      <div class="testimonials">
+        <div class="testimonial">
+          <p>“Switching to QuickBill with Madhi Group support has reduced our billing time by 40%.”</p>
+          <strong>— Asha Retail Mart, Pune</strong>
+        </div>
+        <div class="testimonial">
+          <p>“Inventory reconciliation across six stores is now effortless and accurate.”</p>
+          <strong>— GreenGro Supermarkets, Bengaluru</strong>
+        </div>
+        <div class="testimonial">
+          <p>“Excellent training and instant help whenever we need it.”</p>
+          <strong>— MetroMed Pharmacy, Delhi NCR</strong>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section>
+    <div class="container">
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-item">
+        <h3>Is QuickBill cloud-based or on-premise?</h3>
+        <p>QuickBill is a desktop-based application with optional cloud backup. It runs smoothly on Windows systems.</p>
+      </div>
+      <div class="faq-item">
+        <h3>Can I migrate data from my existing software?</h3>
+        <p>Yes. Our team helps import masters and transactions from Tally, Busy, Marg and Excel sheets.</p>
+      </div>
+      <div class="faq-item">
+        <h3>What support plans are included?</h3>
+        <p>All licenses come with 1-year free updates and 24×7 phone, email and WhatsApp support from Madhi Group.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact -->
+  <section id="contact" style="background:#f9f9f9;">
+    <div class="container">
+      <h2>Get Started Today</h2>
+      <p>Fill in your details and our consultants will set up a personalized demo.</p>
+      <form action="https://www.madhigroup.com/submit-demo" method="post" style="max-width:600px;margin:auto;">
+        <input type="text" name="name" placeholder="Full Name" required style="width:100%;padding:12px;margin-bottom:10px;">
+        <input type="email" name="email" placeholder="Email Address" required style="width:100%;padding:12px;margin-bottom:10px;">
+        <input type="tel" name="phone" placeholder="Phone Number" required style="width:100%;padding:12px;margin-bottom:10px;">
+        <textarea name="message" placeholder="Tell us about your requirements" rows="4" style="width:100%;padding:12px;margin-bottom:10px;"></textarea>
+        <button type="submit" class="btn" style="width:100%;">Book My Demo</button>
+      </form>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 Madhi Group | Official QuickBill Partner | Kanpur, India</p>
+      <p>Phone: +91-8960004555 &nbsp;|&nbsp; Email: madhigroup@gmail.com</p>
+    </div>
+  </footer>
+</body>
+</html>
